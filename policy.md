@@ -28,10 +28,10 @@ Chúng tôi sử dụng thông tin cá nhân của bạn để nâng cao chất 
 Để vận hành và nâng cấp kỹ thuật, chúng tôi có thể sử dụng thông tin các nhân của bạn trong việc điều tra, nghiên cứu, phân tích và đánh giá về những dịch vụ đang cung cấp, gợi ý được phát triển bởi Tâm Điểm hoặc bên thứ ba. 
 Trên nguyên tắc, chúng tôi không cung cấp thông tin cá nhân của bạn cho bên thứ ba trừ các trường hợp sau: 
 Chúng tôi có thể chia sẻ loại thông tin này cho bên thứ ba để họ có thể tìm hiểu về các loại khách tới thăm Tâm Điểm và cách họ sử dụng Dịch vụ.  
--Bạn đồng ý để chúng tôi cung cấp thông tin cá nhân của bạn cho bên thứ ba.   
--Chúng tôi đánh giá rằng việc cung cấp thông tin cá nhân của bạn cho bên thứ ba là cần thiết. Ví dụ để ngăn chặn tội phạm hoặc bảo vệ an ninh quốc gia, tuân theo các yêu cầu pháp lý, bảo vệ an toàn cá nhân của những người sử dụng hoặc công chúng,...   
--Bên thứ ba là đối tượng mua lại toàn bộ hay phần lớn pháp nhân sở hữu Tâm Điểm và dịch vụ.   
--Thông tin cá nhân là thông tin vô danh về khách sử dụng Tâm Điểm. Chúng tôi có thể chia sẻ loại thông tin này cho bên thứ ba để họ có thể tìm hiểu về các loại khách tới thăm Tâm Điểm và sử dụng dịch vụ.   
+- Bạn đồng ý để chúng tôi cung cấp thông tin cá nhân của bạn cho bên thứ ba.   
+- Chúng tôi đánh giá rằng việc cung cấp thông tin cá nhân của bạn cho bên thứ ba là cần thiết. Ví dụ để ngăn chặn tội phạm hoặc bảo vệ an ninh quốc gia, tuân theo các yêu cầu pháp lý, bảo vệ an toàn cá nhân của những người sử dụng hoặc công chúng,...   
+- Bên thứ ba là đối tượng mua lại toàn bộ hay phần lớn pháp nhân sở hữu Tâm Điểm và dịch vụ.   
+- Thông tin cá nhân là thông tin vô danh về khách sử dụng Tâm Điểm. Chúng tôi có thể chia sẻ loại thông tin này cho bên thứ ba để họ có thể tìm hiểu về các loại khách tới thăm Tâm Điểm và sử dụng dịch vụ.   
     
 
 ©2019 TamDiem, All Rights Reserved 
