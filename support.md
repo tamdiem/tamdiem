@@ -1,0 +1,1 @@
+Mọi thông tin cần hỗ trợ vui lòng gửi đến email :  support_ios@tamdiem247.com
